@@ -28,4 +28,4 @@ I strive to use the Trackmania.io API respectfully and within its intended spiri
 
 ---
 
-Powered by [Trackmania.io](https://trackmania.io/)
+Powered by [Trackmania.io](https://trackmania.io/)"This is a new project called TrackmaniaMapInfoAnalyzer"
