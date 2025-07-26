@@ -1,6 +1,6 @@
 # My Trackmania Map Analyzer
 
-This is a personal Python project designed to help me analyze data for all the Trackmania maps I've built (currently around 40, but growing!). It uses the Trackmania.io API to fetch leaderboard information and provides a Tkinter GUI to explore various statistics.
+This is a personal Python project designed to help me analyze data for all the Trackmania maps I've built (currently around 43, but growing!). It uses the Trackmania.io API to fetch leaderboard information and provides a Tkinter GUI to explore various statistics.
 
 ## What it Does
 

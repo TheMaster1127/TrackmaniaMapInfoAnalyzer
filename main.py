@@ -547,7 +547,7 @@ class TrackmaniaAnalyzerApp:
                                     ("maps_contrib", "Maps", 80), ("country", "Country", 120)],
             "Players": [ ("player_name", "Player Name", 160), ("overall_score", "Score (Formula)", 110),
                         ("country", "Country", 110), ("maps_played", "Maps Played", 90),
-                        ("first_seen", "First Seen", 140), ("player_id", "Player ID", 200)],
+                        ("player_id", "Player ID", 200)],
             "Country Top Players": [("country", "Country", 150), 
                                     ("global_rank", "Top Player's Global Rk", 70),
                                     ("player_name", "Top Player", 180), 
@@ -608,7 +608,7 @@ class TrackmaniaAnalyzerApp:
         info_labels_config = [
             ("Name:", self.selected_player_name_val), ("Country:", self.selected_player_country_val),
             ("Overall Score:", self.selected_player_score_val), ("Global Rank:", self.selected_player_global_rank_val),
-            ("Maps Played:", self.selected_player_maps_played_val), ("First Seen:", self.selected_player_first_seen_val)
+            ("Maps Played:", self.selected_player_maps_played_val)
         ]
         for i, (text, var) in enumerate(info_labels_config):
             ttk.Label(summary_frame, text=text, font=('Calibri', 10, 'bold')).grid(row=i, column=0, sticky=tk.W, padx=5, pady=2)
