@@ -420,7 +420,7 @@ class TrackmaniaAnalyzerApp:
         self.selected_player_score_val = tk.StringVar(value="N/A")
         self.selected_player_global_rank_val = tk.StringVar(value="N/A")
         self.selected_player_maps_played_val = tk.StringVar(value="N/A")
-        self.selected_player_first_seen_val = tk.StringVar(value="N/A")
+
 
 
         self.create_tabs()
@@ -645,7 +645,7 @@ class TrackmaniaAnalyzerApp:
         self.selected_player_score_val.set("N/A")
         self.selected_player_global_rank_val.set("N/A")
         self.selected_player_maps_played_val.set("N/A")
-        self.selected_player_first_seen_val.set("N/A")
+
 
         if hasattr(self, 'selected_player_records_tv'):
             for i in self.selected_player_records_tv.get_children(): self.selected_player_records_tv.delete(i)
@@ -661,7 +661,6 @@ class TrackmaniaAnalyzerApp:
         self.selected_player_score_val.set("N/A")
         self.selected_player_global_rank_val.set("N/A")
         self.selected_player_maps_played_val.set("N/A")
-        self.selected_player_first_seen_val.set("N/A")
         for i in self.selected_player_records_tv.get_children(): self.selected_player_records_tv.delete(i)
 
         if not query:
@@ -708,8 +707,7 @@ class TrackmaniaAnalyzerApp:
         self.selected_player_score_val.set(str(player_data['score']))
         self.selected_player_global_rank_val.set(str(player_data['global_rank']))
         self.selected_player_maps_played_val.set(str(player_data['maps']))
-        first_seen_formatted = datetime.fromisoformat(player_data['first_seen']).strftime('%Y-%m-%d %H:%M') if player_data['first_seen'] else 'N/A'
-        self.selected_player_first_seen_val.set(first_seen_formatted)
+
 
         # Clear old records
         for i in self.selected_player_records_tv.get_children(): self.selected_player_records_tv.delete(i)
@@ -774,8 +772,7 @@ class TrackmaniaAnalyzerApp:
 
             all_players_data_with_scores.append({
                 'id': player_id, 'name': p_row['last_known_name'], 'country': p_row['country_name'],
-                'score': round(overall_score, 2), 'maps': maps_played_count,
-                'first_seen': p_row['first_seen_by_script_at']
+                'score': round(overall_score, 2), 'maps': maps_played_count
             })
 
         # Sort all players by score for global ranking, then store with rank
@@ -864,7 +861,6 @@ class TrackmaniaAnalyzerApp:
                 p_data['name'], p_data['score'],
                 p_data['country'] if p_data['country'] else "Unknown",
                 p_data['maps'],
-                datetime.fromisoformat(p_data['first_seen']).strftime('%y-%m-%d %H:%M') if p_data['first_seen'] else 'N/A',
                 p_data['id']
             ), tags=tags)
 
