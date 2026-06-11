@@ -1,6 +1,36 @@
+https://trackmania.io/api/leaderboard/map/5OAl_TW35hagpQp0mMht6pzuHki|mini tech mapie #10
+https://trackmania.io/api/leaderboard/map/G6xarH5mDwnbHAB7FRI6Ov_VyQi|WICKED #64
+https://trackmania.io/api/leaderboard/map/rDNozcRWHYtZpzXud5H0ir4b6l4|mini tech mapie #9
+https://trackmania.io/api/leaderboard/map/LfnMvkSRTYYSxg981G1aRX8l_ml|mini tech mapie #8
+https://trackmania.io/api/leaderboard/map/MefNx4yRdBdS7tBKW1ZbJCS4D4d|mini tech mapie #7
+https://trackmania.io/api/leaderboard/map/3SmI3rphytc9IyF6yvVzFmZMtte|Stairway to Heaven - Reverse A08
+https://trackmania.io/api/leaderboard/map/x3_SvM7LvuWuF1_5SLpijcaM8N4|mini tech mapie #6
+https://trackmania.io/api/leaderboard/map/JNCg0hfpv0TC_7jNxgUSpfXLAt0|WICKED #63
+https://trackmania.io/api/leaderboard/map/G1xK096zNuDUtxXWlkQYbNv6m0e|mini tech mapie #5
+https://trackmania.io/api/leaderboard/map/fLrODQ1m8TrH71XhXAKJJUDE478|WICKED #62
+https://trackmania.io/api/leaderboard/map/5kscy8t_O2WF12SnjcQpz5J3NHi|mini tech mapie #4
+https://trackmania.io/api/leaderboard/map/LVoPwRmSnkA1oU8mNQI8NUWDU48|mini tech mapie #3
+https://trackmania.io/api/leaderboard/map/aLALnhIDoI_kyshRR9KrUlEYnbd|mini tech mapie #2
+https://trackmania.io/api/leaderboard/map/lq0apaOJHsy345TXHM_NtrJgiRk|mini tech mapie
+https://trackmania.io/api/leaderboard/map/pART7rOVSVlQGS72TBLK9AItYg3|WICKED #61
+https://trackmania.io/api/leaderboard/map/6CfvpogY6ZYDItRqIUg2Tn3djs5|my_start
+https://trackmania.io/api/leaderboard/map/khDyCm59lMjX8iKL70hgZ2xNRi4|WICKED #60
+https://trackmania.io/api/leaderboard/map/zxBH91ccLz5BRPCIrlC8OzdwyK4|WICKED #59
+https://trackmania.io/api/leaderboard/map/1796GFc9bCCXxsS0jiEcwD27dqi|WICKED #58
+https://trackmania.io/api/leaderboard/map/USAMYuiIqff6UVsJGrNUU2fk5m3|WICKED #57
+https://trackmania.io/api/leaderboard/map/td2206YHNXhGu3IxC1uNCF5Wpo4|WICKED #56
+https://trackmania.io/api/leaderboard/map/zWt8MLv72eZuXmbTQJms7QVzW26|WICKED #55
+https://trackmania.io/api/leaderboard/map/G8Oqaev55SkBpqL0OJQCTFYukPd|WICKED #54
+https://trackmania.io/api/leaderboard/map/rwGFEYwrYGiMMsvAlKGhE9f8GDg|WICKED #53
+https://trackmania.io/api/leaderboard/map/YCBtrGoKlZBFQ5Urc8hAKGNEtd|WICKED #52
+https://trackmania.io/api/leaderboard/map/ZKiUauDDIsOXTDvAEwMUo7Ls3q6|WICKED #51
+https://trackmania.io/api/leaderboard/map/b4pCGGtAzXHOHnuM8z2zUAgOXNe|WICKED #50
+https://trackmania.io/api/leaderboard/map/j2VnHHZLStAeFnDnXvv1t7W__Y5|WICKED #49
+https://trackmania.io/api/leaderboard/map/JgVNaqqxMg8FA6UwXQWTAYJJqcl|WICKED #48
+https://trackmania.io/api/leaderboard/map/dnRh8vauFCgDI7MjtWUY0FGHbZc|WICKED #47
 https://trackmania.io/api/leaderboard/map/9OWfLTxknyPOK0xUbkaUjkEOBYg|Green Coast Jump
-https://trackmania.io/api/leaderboard/map/lPtkVIfbUyMEOaxKsOcEAO2tvNh|KYANITE
-https://trackmania.io/api/leaderboard/map/F_1WEop2t7w8WbCwhtjYOjh1zwa|WICKED #46
+https://trackmania.io/api/leaderboard/map/lPtkVIfbUyMEOaxKsOcEAO2tvNh|WICKED #46
+https://trackmania.io/api/leaderboard/map/F_1WEop2t7w8WbCwhtjYOjh1zwa|KYANITE
 https://trackmania.io/api/leaderboard/map/3BZJfQYWoafHkqZ2CpONgqRTKQi|i use arch btw
 https://trackmania.io/api/leaderboard/map/QpV3s5a4UBNih2pOoWT_S_3KSv2|WICKED #45
 https://trackmania.io/api/leaderboard/map/BTFXwRXwiqDXBRvsMz850_2ogC|WICKED #44
